@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 import java.util.List;
-import java.util.Set;
+
 
 import org.springframework.boot.CommandLineRunner;
 import com.proxidevcode.spring_react_ecommerce.models.Category;
